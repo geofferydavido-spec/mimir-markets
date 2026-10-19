@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-529-feat-ui-give-performancechart-a-keyboard",
+    "fix/issue-528-fix-agents-treat-non-numeric-council-preflight",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-529-feat-ui-give-performancechart-a-keyboard": "main",
+    "fix/issue-528-fix-agents-treat-non-numeric-council-preflight": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-529-feat-ui-give-performancechart-a-keyboard",
+    "fix/issue-528-fix-agents-treat-non-numeric-council-preflight",
+    "origin"
+  ]
+}
